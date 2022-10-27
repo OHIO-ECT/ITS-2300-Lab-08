@@ -93,7 +93,7 @@ set service dns forwarding listen-address <eth7 Gateway Address>
 
 ### Task 5 - Investigating DNS
 
-14. On the Windows 10 VM, start Wireshark and enter the filter dns.
+14. Start Wireshark on the link between VyOS and Win10 in GNS3, and enter the filter dns.
 
 15. Wireshark may show the computer making DNS requests for processes running in the background.
 
