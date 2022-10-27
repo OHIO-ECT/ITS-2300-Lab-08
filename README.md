@@ -41,7 +41,7 @@
 |Router Interface           |eth0               |eth6               |eth7
 |Network Address            |132.235.160.128    |                   |
 |CIDR Netmask               |/26                |                   |
-|Clien Address              | From Blackboard IP Grid|              |
+|Client Address              | From Blackboard IP Grid|              |
 |Gateway Address            |132.235.160.190    |                   |
 
 ![](lab8-1.png)
