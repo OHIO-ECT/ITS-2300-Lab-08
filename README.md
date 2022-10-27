@@ -56,7 +56,7 @@
 
 3.  Use procedures from the previous labs to implement the network showing in the diagram above with the IP networks designed in Task 1.
 
-4.  Complete ONLY the IP configuration for the Win10 and Ubuntu-GUI machine, do not configure the DNS components yet.
+4.  Complete ONLY the IP configuration for the Win10 and Ubuntu-GUI machine, do not configure the DNS components on the Ubuntu-GUI.  NOTE: The Windows machine requires the netmask in dotted decimal notation, and must have a DNS set to 132.235.9.75
 
 5.  [Data] Test with pings and traceroute to a reliable IP address.
 
