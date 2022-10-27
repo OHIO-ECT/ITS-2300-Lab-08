@@ -152,4 +152,4 @@ The network manager at Head Wall Ram Inc., has been asked to deploy a new networ
 
 WAN connectivity is provided by a Fiber internet service. The WAN network is the same WAN network information assigned in step 10.
 
-Complete answers allow for at least 100% growth of hosts on each of the LANs. Since 172.16.0.0/16 has many more addresses than are needed and is a free private address space a complete solution does not require subnet masks smaller than /24.
+Complete answers allow for at least 100% growth of hosts on each of the LANs. Since 10.0.0.0/8 has many more addresses than are needed and is a free private address space a complete solution does not require subnet masks smaller than /24.
