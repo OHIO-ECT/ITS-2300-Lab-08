@@ -44,7 +44,7 @@
 |Client Address              | From Blackboard IP Grid|              |
 |Gateway Address            |132.235.160.190    |                   |
 
-![](lab9.png)
+![](Lab9.png)
 
 ### Task 2 - Finish the Build 
 
