@@ -138,7 +138,7 @@ the middle window a second time and select "copy" and then "All visible Items".
 
 3.  On your personal computer, and start a capture on the interface your computer is using to connect to the Internet. Enter the dns filter. Let this run for one minute while you have a "typical" set of packet captures. Identify 5 queries that you can tell are related to applications you have open, and 5 queries that you cannot easily identify.
 
-4.  Layout an IP address space for the following Business case. Use a subnet calculator of your choosing (Mr. Saunders recommends <http://www.davidc.net/sites/default/subnets/subnets.html>)
+4.  Layout an IP address space for the following Business case. Use a subnet calculator of your choosing (Mr. Saunders recommends <http://www.its.ohio.edu/ipcalc/>)
 
 The network manager at Head Wall Ram Inc., has been asked to deploy a new network with 4 LANs, and has selected the 10.0.0.0/8 private address space to divide up to support the following networks.
 
