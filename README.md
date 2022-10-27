@@ -19,10 +19,6 @@
 
 -   <https://lookup.icann.org>, web based whois information
 
-### Storyline
-
-Intern, welcome back to the Desktop Group. Your manager was starting to get concerned that the Linux team was not going to send you back. In your lab brief, please summarize what you learned in Labs 2, 3, and 4 in your lab brief. While you were gone the other engineers started to deploy the simulation for the managed branch product. Fortunately, it is very similar to the networks that you deployed for the Linux team.
-
 ### Task 1 - Design 
 
 1.  [Data] At the risk of "breaking the 4th wall" your faux manager, Livingston Dell, finds it interesting that Head Wall Ram needs another faux company to describe how the managed branch product will be used. Please design a network for ACME French Fry Shop using the IP assignment 172.16.0.0/16.
