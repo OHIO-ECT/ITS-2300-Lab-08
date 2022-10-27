@@ -77,8 +77,6 @@ set service dns forwarding listen-address <eth7 Gateway Address>
 
 `dig www.its.ohio.edu @<eth6 gateway address>`
 
-Checkpoint - Submit a preliminary report including your IPGrid and VyOS configuration data and the output from dig in step 8.
-
 ### Task 4 - Configure the computers
 
 9.  Return to the Windows-Desktop virtual machine's IP settings.
